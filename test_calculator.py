@@ -1,3 +1,7 @@
+# https://github.com/AshwinRG1/lab10-AG-TA
+# Partner 1: Tej Allada
+# Partner 2: Ashwin Guda
+
 import unittest
 
 
